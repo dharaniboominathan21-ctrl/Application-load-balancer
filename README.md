@@ -139,9 +139,4 @@ Real-world cloud architecture implementation
 👤 Author
 
 Dharani Boominathan
-AWS Learner | Cloud Enthusiast
-
-
-Create architecture diagram description
-
-Just tell me 👍
+AWS Learner 
